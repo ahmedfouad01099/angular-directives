@@ -11,4 +11,7 @@ export class AppComponent {
   oddNums = [1, 3, 5];
   evenNums = [2, 4];
   onlyOdd = false;
+
+  value = 5;
+  constructor() {}
 }
